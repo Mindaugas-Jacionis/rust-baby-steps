@@ -1,5 +1,10 @@
 # This is my personal and first encounter in learning Rust basics.
 
+### Install
+
+- Visit [Rust lang website](https://www.rust-lang.org/tools/install) - it will detect your OS and provide with terminal command.
+- For Mac it is (as of 2020-10-20) `curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh`
+
 ### Commands
 
 - `rustc {target-file.rs}` - will build Rust from given entry file
